@@ -1,0 +1,41 @@
+body{
+    font-size: 16px;
+
+}
+
+image{
+    max-width: 100%;
+}
+
+.journal-intro{
+    border-top: 5px solid blue;
+}
+
+.container{
+    max-width: 558px;
+    margin: auto;
+    outline: 3px solid red;
+    padding: 1 rem;
+    
+
+
+}
+
+.kids{
+    margin-left: -4 rem;
+}
+
+.style{
+    border-left: 5px solid gray;
+    padding-left: 1rem;
+}
+
+.h1{
+    font-size:2.5 rem;
+    line-height: 1.4;
+}
+
+.tea{
+    Font-style:italic
+}
+
